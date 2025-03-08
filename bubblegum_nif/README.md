@@ -1,6 +1,6 @@
 # BubblegumNif
 
-**TODO: Add description**
+**TODO:  Native Implemented Functions (NIFs) that bridge the Metaplex mpl-bubblegum Rust crate (github.com/metaplex-foundation/mpl-bubblegum/tree/main/clients/rust) to Elixir, enabling Elixir developers to construct and send compressed NFT transactions on Solana.**
 
 ## Installation
 
